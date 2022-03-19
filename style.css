@@ -1,0 +1,6 @@
+.my_navbar{
+    position: sticky;
+    z-index: 9999;
+    top:0;
+    background-color: black;
+}
